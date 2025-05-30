@@ -98,27 +98,5 @@
 │       └── DBConnection.java
 </pre>
 
-<h2>🖼️ UML Class Diagram</h2>
 
-<p>
-  Diagram class untuk sistem ini digambarkan sebagai berikut:
 </p>
-<img src="./class_diagram.png" alt="UML Class Diagram" />
-
-<h2>🚀 Cara Menjalankan Proyek</h2>
-<ol>
-  <li>Clone repositori ini</li>
-  <li>Import proyek ke NetBeans</li>
-  <li>Sesuaikan koneksi database di <code>DBConnection.java</code></li>
-  <li>Jalankan server Apache Tomcat</li>
-  <li>Akses aplikasi via <code>http://localhost:8080/Tubes</code></li>
-</ol>
-
-<h2>📋 Database</h2>
-<p>
-  Gunakan file <code>library.sql</code> untuk membuat struktur dan data awal pada MySQL.
-</p>
-
----
-
-<p align="center">Dibuat untuk memenuhi tugas akhir pemrograman berbasis objek dengan Java & JSP ❤️</p>
