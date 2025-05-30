@@ -80,28 +80,5 @@
   <li><strong>Inheritance:</strong> Class <code>Admin</code> dan <code>Peminjam</code> dapat mewarisi <code>User</code>.</li>
   <li><strong>Polymorphism:</strong> Metode seperti <code>setNama()</code> dapat digunakan untuk objek dari kelas turunan.</li>
 </ul>
-
-<h2>📦 Struktur Direktori</h2>
-
 <pre>
-📁 Web Pages
-│   └── Login.jsp
-│   └── daftarBuku.jsp
-│   └── ...
-│
-📁 Source Packages
-│   ├── servlet
-│   │   ├── LoginServlet.java
-│   │   ├── PinjamServlet.java
-│   │   ├── KembaliServlet.java
-│   │   ├── TambahBukuServlet.java
-│   │   └── ...
-│   ├── model
-│   │   ├── User.java
-│   │   ├── Admin.java
-│   │   ├── Peminjam.java
-│   │   └── Buku.java
-│   └── util
-│       └── DBConnection.java
-</pre>
 
