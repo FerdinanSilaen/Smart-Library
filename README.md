@@ -1,11 +1,6 @@
 <h1>📚 Library Management System</h1>
 
-<h3><strong>👥 Kelompok:</strong></h3>
-<ul>
-  <li><strong>Ahmad Fariz Gustav</strong> (2311110012)</li>
-  <li><strong>Chelsisdeo A.P Sanenek</strong> (2311110016)</li>
-  <li><strong>Ferdinan Silaen</strong> (2311110068)</li>
-</ul>
+
 
 <p>
   Proyek ini adalah sistem manajemen perpustakaan berbasis website menggunakan <strong>Java (Servlet)</strong> sebagai backend, <strong>HTML/CSS</strong> sebagai frontend, dan <strong>MySQL</strong> untuk database.
